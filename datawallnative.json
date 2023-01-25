@@ -1,0 +1,64 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+	  "main_ads_native": "ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_native": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "anime",
+      "show_category": "0"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "One Piece",
+      "image_url": "https://fsa.zobj.net/crop.php?r=kWHIiTcx_6Jy9V5sFlPvGXiiiuxh-CYdTPWRCzmTIQqtyndBFZfL6FL9eoM0K6fEzqyMvH4Ct4xpRBE2l-Pyvhk6DmU-SRL8WZHHuUyijJu7lvZR2SYcJ_gXztED4SE9FbHr2sr6DLL5QPZIcYKpzV6E056SSWniDtfO4-cJaU1awsuTjVxTSAdcDBmpGLlNC8jZVC3Y5z2OetEL"
+    },
+    {
+      "title_search": "Naruto",
+      "image_url": "https://fsb.zobj.net/crop.php?r=4BJ3kJLTRcxkIi69VXO3Yf8WF2W3q_M_LUQY1NJgAbNaHmNRF2DCxBGppY672TUtv_biEMt8j8ZisJ49HLyEUlpTpQSR5uDyABWg0FV-3xf8wChFNNba3dGX0SNhPAeHsFv0KXz6pCr8-h8YcbRV-G6teduOIcYTcgK-qIs87n0Kd1ey5sYFwUQdx9VSuoEYYfts39Tb5NS3lVoW"
+    },
+    {
+      "title_search": "Dragon Ball",
+      "image_url": "https://fsb.zobj.net/crop.php?r=qBWZEYj5pvyVqvM8D3h8QoqwZhR_2ZyQObmFtiRGIFdiI_RG8-pWcuCeviD359AlYE8pZow7fy22XXxWOMR4zioe-zLJaIuC5rBd5vADjY-OaU7CvcncF3uaziNY08nMtJyp7kG0ANjKGTEFvdTteY2M5x_rOHwmMy_BEn_Aee4YR3qD5D-m5_OCjHmMKAk5KP8rhUlFcAPR_KlX"
+    },
+    {
+      "title_search": "Anime Girl",
+      "image_url": "https://fsb.zobj.net/crop.php?r=H7dCBWVieuSGTgnzFP2-q8ADJQNXklnkZ-lbZ2zKwOIrV0ztAqgvfWRtwzbE-_Nq97G3QEsXqn72Zh6JHVOB6FzLtM_nhoBtSvEai1dZUTYoZddiyYRg6o9zNtg-agNVPnlRaHHJYYXAsyaMyIhCuqaO8JRR2II1lfet3P1eE3b6gFhfJ-Xf520o-VM"
+    },
+    {
+      "title_search": "Anime Boy",
+      "image_url": "https://fsb.zobj.net/crop.php?r=w_76-HPa5rgkgK-0sQswCUI0L_fJhyu9p9NDXz8ZR5AyFPBTh6R2Y9T0QuHwwZkvt9nNoqO7sfm6khjsJqme6dGSZn-tswQwSa22YFke-qPdgCjNzWLAXoTA4Iz2gVydTTLl-bY8CRiJRNIs1htPGunhCu_4JI49BPRiqFUIY4QZbpRAMgxs9WRyp_Q"
+    },
+    {
+      "title_search": "City",
+      "image_url": "https://fsb.zobj.net/crop.php?r=p7O0jwhV1tKrTht028beIo4GpeanStQ4iFvuaj8y2se2sDUifJrB7dEqHWrtrzPqmH7gpwqdTCSlK9ebCDbnLgW3r3_jjgH2lQzLBxVEIUD5ywSFLlfwFB-jSDY_F1sBxFmr5Av2STb0CwwbTA2xl8Kq7iggwkMRsCwg6ytkt7layBPQPnomg-sSTRA3YSbpmyvHfW1Cnb2qA2NV"
+    },
+    {
+      "title_search": "Nature",
+      "image_url": "https://fsa.zobj.net/crop.php?r=NcOwYVPfC3fciUjgqPH47D2KApYIjfFsWAQ45431qjxlKEAmnRc6nzwC-e6pDoEVMQuP34l5NqRfg9zQ3kg5wUr5A8gleh4FISeysDcbd4OpprpPk5s9CzmqkqUmoWCmJfvuSzHW3ANNVvSM5z2JIEjUlscSDGQYqAu0GZF74jtS1hBqy-jzMLzTyVUKh4zj1BkzlyAm_SPfqKTp"
+    },
+    {
+      "title_search": "Car",
+      "image_url": "https://fsa.zobj.net/crop.php?r=rzck_5-wDQephqic8HxzITU2w0XhHfjObdTrVoWBAGhlzxKlGMRTissGmHwJlpMf9tSA9iwQdvT4LiZP2b-3UBw8jo-IGSWTAFPgKb3N__AjmcOmareJ_VaGNDdECt343PIyoXisLUQptkNH5qVi7ydP1ezAB-wHU8gMssRsoBICWfrGv0lhN1oR1d8edKXO_W4lRhoqsh0uwMa3"
+    },
+    {
+      "title_search": "Beach",
+      "image_url": "https://fsa.zobj.net/crop.php?r=ZP7v3Ytw69DXtDPMe60_0UDbfFvhtwlWx-mU-_k6jBGsCawt0KrzZoLzFJ1BSztW5t0gbElL4aNSork7uBo1yHLtKPcHUSnEN-JqjxrYD-AfAH4alc-PCa3SFukft5pKxP71KEQcPCLEcPsOvfDbT5BpgPL5w50YbDdfYWM-ECziMINrK334ikofKnADHNYyaw3yrCjv1naPyJpq"
+    }
+  ]
+}
